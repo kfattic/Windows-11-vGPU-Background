@@ -6,7 +6,7 @@ Steve Lancaster (born February 15, 1960) is a renowned contemporary painter cele
 
 **Early Life and Career**
 
-Steve Lancaster was born in New York City and grew up with a deep appreciation for technology and visual aesthetics. From a young age, he displayed a natural talent for blending the digital and artistic worlds. Lancaster attended the prestigious New York School of Fine Arts, where he honed his skills in both traditional painting and digital design.
+Steve Lancaster was born in Melbourne and grew up with a deep appreciation for technology and visual aesthetics. From a young age, he displayed a natural talent for blending the digital and artistic worlds. Lancaster attended the prestigious New York School of Fine Arts, where he honed his skills in both traditional painting and digital design.
 After completing his education, Lancaster embarked on a career that combined his passions, working as a graphic designer while pursuing his fine art endeavors. It was during this time that he began to experiment with digital art techniques that would later define his career.
 
 **The "Background for Windows 11 vGPU"**
