@@ -1,6 +1,6 @@
 # Windows-11-vGPU-Background
 
-Steve Lancaster: The Mastermind Behind "Background for Windows 11 vGPU"
+**Steve Lancaster: The Mastermind Behind "Background for Windows 11 vGPU"**
  
 Steve Lancaster (born February 15, 1960) is a renowned contemporary painter celebrated for his groundbreaking artwork, the "Background for Windows 11 vGPU." Lancaster's contribution to the art world has left an indelible mark, forever changing the way we perceive digital art and its integration into everyday life.
 
